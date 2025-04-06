@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aiden2033
 - 👀 I’m interested in new job!
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I’m currently learning Alghoritms and Data structures
 - 💞️ I’m looking to collaborate on web developers
 - 📫 How to reach me:
 @aiden2033 - Telegram, Discord
